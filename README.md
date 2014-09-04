@@ -6,7 +6,7 @@ HTML, CSS and JS snippets for your Sublime Text 2 & 3.
 
 ### With Package Control
 
-To install through package control: http://wbond.net/sublime_packages/package_control, search for **Steven Snippets** or typically the keywords **js** or **javascript** are suitable.
+To install through [package control](http://wbond.net/sublime_packages/package_control), search for **Steven Snippets** or typically the keywords **js** or **javascript** are suitable.
 
 ### Without Package Control
 
@@ -30,7 +30,7 @@ console.warn(${1:msg});
 
 ```javascript
 ${1:document}.addEventListener('${2:event}', function(e) {
-  ${3}
+  $3
 });
 ```
 
@@ -410,4 +410,4 @@ while (${1:condition}) {
 
 ## Author
 
-Steven Wang: http://wangwen1220.github.io/
+[Steven Wang](http://wangwen1220.github.io/)
