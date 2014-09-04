@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[if (localStorage.${1:item}) {
+  var ${1:item} = localStorage.${1:item};
+  $2
+}]]></content>
+  <tabTrigger>ls</tabTrigger>
+  <description>localStorage - js</description>
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

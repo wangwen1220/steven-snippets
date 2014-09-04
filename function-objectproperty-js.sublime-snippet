@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:functionName}: function(${2:arguments}) {
+  $3
+}$4]]></content>
+  <tabTrigger>ofn</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>function as a property of an object - js</description>
+</snippet>

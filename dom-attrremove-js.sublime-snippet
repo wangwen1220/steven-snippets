@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[.removeAttribute('${1:attr}');]]></content>
+  <tabTrigger>.ra</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>removeAttribute - js</description>
+</snippet>

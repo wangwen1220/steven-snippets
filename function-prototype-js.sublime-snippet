@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+.prototype.${1:methodName} = function(${2:arguments}) {
+  $3
+};]]></content>
+  <tabTrigger>.prot</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>prototype - js</description>
+</snippet>

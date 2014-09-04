@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[.classList.add('${1:class}');]]></content>
+  <tabTrigger>.ca</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>classList.add - js</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<img src="http://dummyimage.com/${1:800}x${2:600}/${3:4d494d}/${4:686a82}.png" alt="$5">$0]]></content>
+  <tabTrigger>wimg</tabTrigger>
+  <description>wimg - html</description>
+  <scope>text.html</scope>
+</snippet>

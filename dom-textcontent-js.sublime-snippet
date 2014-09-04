@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[.textContent = '${1:elem}';]]></content>
+  <tabTrigger>.tc</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>textContent - js</description>
+</snippet>

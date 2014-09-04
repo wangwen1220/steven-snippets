@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[.createDocumentFragment($1);$2]]></content>
+  <tabTrigger>.cdf</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>createDocumentFragment - js</description>
+</snippet>

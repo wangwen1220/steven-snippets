@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[.getAttribute('${1:attr}');]]></content>
+  <tabTrigger>.ga</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>getAttribute - js</description>
+</snippet>

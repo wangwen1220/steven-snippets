@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+.apply(${1:context}, [${2:arguments}]);]]></content>
+  <tabTrigger>.apply</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>method.apply() - js</description>
+</snippet>
