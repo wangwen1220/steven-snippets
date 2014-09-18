@@ -1,6 +1,6 @@
 # Steven Snippets for Sublime Text
 
-HTML, CSS and JS snippets for your Sublime Text 2 & 3.
+HTML, CSS and JS snippets for your Sublime Text 2 & 3
 
 ## How to install
 

@@ -55,7 +55,7 @@
       </header>
       <p>
         <video controls="controls">
-          <source src="http://www.double.co.nz/video_test/transformers480.ogg" type="video/ogg; codecs="vorbis, theora"" />
+          <source src="http://www.double.co.nz/video_test/transformers480.ogg" type="video/ogg; codecs='vorbis, theora'">
 
           <div class="no-html5-video">
             <p>This video will work in Mozilla Firefox or Google Chrome only. <a href="http://www.double.co.nz/video_test/transformers480.ogg">Download video file.</a></p>
@@ -72,22 +72,22 @@
 
       <form method="post" action="#">
         <label for="contact_name">姓名</label>
-        <input id="contact_name" required="required" placeholder="请输入您的姓名" autofocus="autofocus" />
+        <input id="contact_name" required="required" placeholder="请输入您的姓名" autofocus="autofocus">
 
         <label for="contact_email">电邮</label>
-        <input type="email" id="contact_email" placeholder="Email Address" />
+        <input type="email" id="contact_email" placeholder="Email Address">
 
         <label for="contact_phone">电话</label>
-        <input type="tel" id="contact_phone" required="required" pattern="[0-9]{6,12}" placeholder="6到12位数字" />
+        <input type="tel" id="contact_phone" required="required" pattern="[0-9]{6,12}" placeholder="6到12位数字">
 
         <label for="contact_callback">回拨时间</label>
-        <input type="datetime" id="contact_callback" value="2011-06-18T08:36:35.682Z" size="30" />
+        <input type="datetime" id="contact_callback" value="2011-06-18T08:36:35.682Z" size="30">
 
         <label for="contact_priority">优先级</label>
-        <input type="range" min="1" max="5" step="1" value="1"  id="contact_priority" />
+        <input type="range" min="1" max="5" step="1" value="1"  id="contact_priority">
         <output id="contact_priority_result" >1</output>
 
-        <input type="submit" value="请求回拨" />
+        <input type="submit" value="请求回拨">
       </form>
     </section>
 

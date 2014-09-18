@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[alert(${1:'test'});]]></content>
+  <content><![CDATA[alert(${1:'${2:test}'});$0]]></content>
   <tabTrigger>alt</tabTrigger>
   <description>alert - js</description>
   <scope>source.js,source.js.embedded.html</scope>

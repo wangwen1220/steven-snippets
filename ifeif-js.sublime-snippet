@@ -5,7 +5,7 @@
   $3
 } else {
   $4
-}}]]></content>
+}]]></content>
   <tabTrigger>ifeif</tabTrigger>
   <description>if else if - js</description>
   <scope>source.js,source.js.embedded.html</scope>
