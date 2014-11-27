@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[<meta charset="${1:utf-8}">$0]]></content>
+  <content><![CDATA[<meta charset="${1:utf-8}">]]></content>
   <tabTrigger>cst</tabTrigger>
   <description>charset meta - html</description>
   <scope>text.html</scope>

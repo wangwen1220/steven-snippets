@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[try {
 	$1
-} catch(r) {$2}$3]]></content>
+} catch(r) {$2}]]></content>
   <tabTrigger>try</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
   <description>immediately-invoked jQuery - js</description>

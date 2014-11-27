@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+else {
+  $1
+}
+]]>
+	</content>
+  <tabTrigger>else</tabTrigger>
+  <description>else - js</description>
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>
