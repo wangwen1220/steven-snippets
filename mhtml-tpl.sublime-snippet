@@ -15,6 +15,7 @@
   <meta name="format-detection" content="telephone=no">
   <meta name="apple-touch-fullscreen" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
   <link rel="apple-touch-icon-precomposed" href="/touch-icon-iphone.png">
   <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/touch-icon-iphone-retina.png">
 </head>
@@ -62,11 +63,10 @@
     <p>Author: <cite>Steven</cite> | <time>2014-10-16</time></p>
   </footer>}
 
-  <script src="http://cdn.staticfile.org/zepto/1.1.4/zepto.min.js"></script>
-  <script>window.Zepto || document.write('<script src="js/zepto-1.1.4.js"><\/script>')</script>
+  <script src="js/sea.js"></script>
   <script src="js/main.js"></script>
 </body>
 </html>]]></content>
-  <tabTrigger>mhtm</tabTrigger>
-  <description>mhtm - tpl</description>
+  <tabTrigger>mhtml</tabTrigger>
+  <description>mhtml - tpl</description>
 </snippet>
