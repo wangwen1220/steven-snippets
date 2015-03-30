@@ -1,11 +1,10 @@
 <snippet>
   <content>
 <![CDATA[
-\$(function () {
+\$(function() {
   $1
 });
-]]>
-	</content>
+]]></content>
   <tabTrigger>$fn</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
   <description>$ Ready - js</description>

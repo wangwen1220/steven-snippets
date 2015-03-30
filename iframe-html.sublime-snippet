@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<iframe src="${1:url}" frameborder="0" width="100%"${3: width="${2}"}${4: allowtransparency="true"} scrolling="no"></iframe>]]></content>
+  <tabTrigger>iframe</tabTrigger>
+  <description>iframe - html</description>
+  <scope>text.html</scope>
+</snippet>
