@@ -1,27 +1,25 @@
 <snippet>
   <content><![CDATA[
-<!doctype html>
-<html class="${3:home}">
+<!DOCTYPE html>
+<html lang="zh-cn">
 <head>
-  <meta charset="${2:utf-8}">
+  <meta charset="UTF-8">
+  <title>${1:首页}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <title>${1:首页 - 网站名称}</title>
-  <meta name="author" content="Steven">
+  <meta name="author" content="steven">
   <meta name="keywords" content="${1:首页}">
   <meta name="description" content="${1:首页}">
-  <link rel="stylesheet" href="css/main.css">
-  <!-- <script src="js/cssrefresh.js"></script> -->
-  <!-- <script src="http://192.168.2.213:8080/target/target-script-min.js#anonymous"></script> -->
   <meta name="format-detection" content="telephone=no">
-  <meta name="apple-touch-fullscreen" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- <meta name="apple-touch-fullscreen" content="yes"> -->
+  <!-- <meta name="apple-mobile-web-app-capable" content="yes"> -->
   <!-- <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
-  <link rel="apple-touch-icon-precomposed" href="/touch-icon-iphone.png">
-  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/touch-icon-iphone-retina.png">
+  <!-- <link rel="apple-touch-icon-precomposed" href="/touch-icon-iphone.png"> -->
+  <!-- <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/touch-icon-iphone-retina.png"> -->
+  <link href="css/main.css" rel="stylesheet">
+  <!-- <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> -->
 </head>
-
 <body>
-  ${4:<header>
+  ${2:<header>
     <hgroup>
       <h1>Company Name</h1>
       <h2>An example of HTML5 and CSS3 in action</h2>
@@ -62,8 +60,8 @@
   <footer>
     <p>Author: <cite>Steven</cite> | <time>2014-10-16</time></p>
   </footer>}
+  $3
 
-  <script src="js/sea.js"></script>
   <script src="js/main.js"></script>
 </body>
 </html>]]></content>

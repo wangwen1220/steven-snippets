@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[return false;]]></content>
+  <content><![CDATA[return false]]></content>
   <tabTrigger>rtf</tabTrigger>
   <description>return false - js</description>
   <scope>source.js,source.js.embedded.html</scope>

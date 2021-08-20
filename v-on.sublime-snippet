@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@${1:click}="${2:callback}"]]></content>
+	<tabTrigger>von</tabTrigger>
+	<scope>text.html</scope>
+  <description>@click="callback"</description>
+</snippet>

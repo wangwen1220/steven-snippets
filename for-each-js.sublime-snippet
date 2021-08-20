@@ -2,7 +2,7 @@
   <content><![CDATA[
 .forEach(function(${1:elem}) {
   $2
-});]]></content>
+})]]></content>
   <tabTrigger>.fe</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
   <description>forEach - js</description>

@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[return;]]></content>
+  <content><![CDATA[return]]></content>
   <tabTrigger>rtn</tabTrigger>
-  <description>return; - js</description>
+  <description>return - js</description>
   <scope>source.js,source.js.embedded.html</scope>
 </snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+${1:}
+[data-dpr='2'] & {
+  ${2:}
+}
+[data-dpr='3'] & {
+  ${3:}
+}
+]]></content>
+  <tabTrigger>dpr</tabTrigger>
+  <scope>source.less,source.sass,source.scss,source.stylus</scope>
+</snippet>

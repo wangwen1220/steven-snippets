@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[clearInterval(${1:timer});]]></content>
+  <content><![CDATA[clearInterval(${1:timer})]]></content>
   <tabTrigger>ci</tabTrigger>
   <description>clearInterval - js</description>
   <scope>source.js,source.js.embedded.html</scope>

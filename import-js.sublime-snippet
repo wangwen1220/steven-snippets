@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[import ${1:*} from '${2:module}'${3}]]></content>
+  <tabTrigger>import</tabTrigger>
+  <description>import - js</description>
+  <scope>source.es,source.js,source.js.embedded.html</scope>
+</snippet>

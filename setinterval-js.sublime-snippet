@@ -1,7 +1,7 @@
 <snippet>
-  <content><![CDATA[setInterval(function() {
+  <content><![CDATA[setInterval(() => {
   $2
-}, ${1:millis});]]></content>
+}, ${1:1000})]]></content>
   <tabTrigger>setinterval</tabTrigger>
   <description>setInterval - js</description>
   <scope>source.js,source.js.embedded.html</scope>
