@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[v-link="{${2:path}:'${1:url}'}">]]></content>
-	<tabTrigger>vlink</tabTrigger>
-	<scope>text.html</scope>
-  <description>v-link="{path:'url'}</description>
-</snippet>
-

@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[v-if="${1}"]]></content>
-  <tabTrigger>vif</tabTrigger>
-  <scope>text.html</scope>
-  <description>v-if=""</description>
-</snippet>

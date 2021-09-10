@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[:${1:class}="${2:value}"]]></content>
+	<tabTrigger>vbind</tabTrigger>
+  <description>v-bind - vue</description>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+\$(function() {
+  $1
+});
+]]></content>
+  <tabTrigger>jqfn</tabTrigger>
+  <description>jqfn - js</description>
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

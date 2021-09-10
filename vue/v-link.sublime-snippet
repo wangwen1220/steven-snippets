@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[v-link="{${2:path}:'${1:url}'}">]]></content>
+	<tabTrigger>vlink</tabTrigger>
+  <description>v-link - vue</description>
+	<scope>text.html</scope>
+</snippet>
+

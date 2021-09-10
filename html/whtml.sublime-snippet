@@ -1,0 +1,34 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>${1:网页标题}</title>
+    <meta name="author" content="steven">
+    <meta name="keywords" content="${1:关键字}">
+    <meta name="description" content="${1:网站描述}">
+    <link rel="stylesheet" href="https://at.alicdn.com/t/font_2755319_8f9ry3i3nqf.css">
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vue2-animate@2.1.4/dist/vue2-animate.min.css">
+    <link rel="icon" href="/favicon.ico">
+  </head>
+  <body>
+    <!--[if lt IE 10]>
+      <style>
+        html{margin:0;overflow:hidden;background:#999;}#kill-ie{position:fixed;z-index:999;top:0;left:0;right:0;bottom:0}#kill-ie p{position:fixed;z-index:111;top:0;left:0;right:0;margin:0;padding:20px 20px;text-align:center;font-size:16px;color:#222;line-height:36px;background:#FFFEEC}#kill-ie a{display:inline-block;padding:0 15px;color:#fff;text-decoration:none;border-radius:3px;background:#F33F40}#kill-ie i{position:fixed;left:0;right:0;top:0;bottom:0;filter:alpha(opacity=80);opacity:.8;background:#000}#newBridge{display:none;}
+      </style>
+      <div id="kill-ie"><p>您的浏览器版本过低，为了更好的体验，请升级您的浏览器。<a href="http://browsehappy.osfipin.com">马上升级</a></p><i></i></div>
+    <![endif]-->
+    <noscript><strong>抱歉，网站需要启用 JavaScript 才能正常工作。</strong></noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>]]></content>
+  <tabTrigger>whtml</tabTrigger>
+  <description>whtml - html</description>
+</snippet>

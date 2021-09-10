@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[:to="{${1:name}:'${2:user}', ${3:params}:{${4:id:123}}}"]]></content>
-	<tabTrigger>vto</tabTrigger>
-	<scope>text.html</scope>
-  <description>:to="{name:'user', params:{id:123}}"</description>
-</snippet>

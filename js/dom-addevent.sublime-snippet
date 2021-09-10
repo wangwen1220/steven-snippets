@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[.addEventListener('${1:event}', function(e) {
+  $2
+});]]></content>
+  <tabTrigger>.ae</tabTrigger>
+  <description>addEventListener - js</description>
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

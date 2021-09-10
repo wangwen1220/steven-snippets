@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[
-px2rem(${1:value})
-]]></content>
-  <tabTrigger>px2rem</tabTrigger>
-  <scope>source.less,source.sass,source.scss,source.stylus</scope>
-</snippet>

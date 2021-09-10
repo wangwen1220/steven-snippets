@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[alert(${1:'${2:test}'})]]></content>
-  <tabTrigger>alt</tabTrigger>
-  <description>alert - js</description>
-  <scope>source.js,source.js.embedded.html</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[v-else]]></content>
-  <tabTrigger>velse</tabTrigger>
-  <scope>text.html</scope>
-  <description>v-else</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[v-show="${1}"]]></content>
-  <tabTrigger>vshow</tabTrigger>
-  <scope>text.html</scope>
-  <description>v-show=""</description>
-</snippet>

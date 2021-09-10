@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[<router-link to="${1:/home}">${2:home}</router-link>]]></content>
-	<tabTrigger>rlink</tabTrigger>
-	<scope>text.html</scope>
-  <description>tag:router-link</description>
-</snippet>
-

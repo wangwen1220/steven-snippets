@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[v-model="${1:value}"]]></content>
-	<tabTrigger>vm</tabTrigger>
-	<scope>text.html</scope>
-  <description>v-model="value"</description>
-</snippet>

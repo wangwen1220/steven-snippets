@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[<router-link ${1:to="${2:path}"}>${3:text}</router-link>]]></content>
-  <tabTrigger>vrouter</tabTrigger>
-  <scope>text.html</scope>
-  <description>router-link</description>
-</snippet>

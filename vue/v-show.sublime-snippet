@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[v-show="${1}"]]></content>
+  <tabTrigger>vshow</tabTrigger>
+  <description>v-show - vue</description>
+  <scope>text.html</scope>
+</snippet>

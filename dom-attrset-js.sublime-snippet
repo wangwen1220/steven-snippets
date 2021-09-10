@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[.setAttribute('${1:attr}', ${2:value});]]></content>
-  <tabTrigger>.sa</tabTrigger>
-  <scope>source.js,source.js.embedded.html</scope>
-  <description>setAttribute - js</description>
-</snippet>

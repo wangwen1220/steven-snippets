@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[:${1:class}="${2:value}"]]></content>
-	<tabTrigger>vbind</tabTrigger>
-	<scope>text.html</scope>
-  <description>:attr="value"</description>
-</snippet>
