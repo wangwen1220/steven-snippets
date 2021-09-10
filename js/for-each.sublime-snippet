@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-.forEach(function(${1:elem}) {
+.forEach(${1:item} => {
   $2
 })]]></content>
   <tabTrigger>.fe</tabTrigger>
