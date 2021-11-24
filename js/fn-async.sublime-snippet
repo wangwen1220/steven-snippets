@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-${1(${2:item})} => {
+async ${1(${2:item})} => {
   $3
 }]]></content>
-  <tabTrigger>fn</tabTrigger>
+  <tabTrigger>afn</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
-  <description>fn - js</description>
+  <description>afn - js</description>
 </snippet>

@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
-${1(${2:item})} => {
+function ${1:methodName}(${2:arguments}) {
   $3
 }]]></content>
   <tabTrigger>fn</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
-  <description>fn - js</description>
+  <description>define function - js</description>
 </snippet>
