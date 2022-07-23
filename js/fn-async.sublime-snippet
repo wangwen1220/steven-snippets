@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-async ${1(${2:item})} => {
-  $3
+async (${1:item}) => {
+  $2
 }]]></content>
   <tabTrigger>afn</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>

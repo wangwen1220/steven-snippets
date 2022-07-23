@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-${1(${2:item})} => {
-  $3
+(${1:item}) => {
+  $2
 }]]></content>
   <tabTrigger>fn</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
