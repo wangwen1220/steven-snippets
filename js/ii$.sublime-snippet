@@ -3,6 +3,6 @@
   $2
 })(${1:jQuery});]]></content>
   <tabTrigger>ii$</tabTrigger>
-  <scope>source.js,source.js.embedded.html</scope>
+  <scope>source.ts, source.tsx, source.es, source.js, source.jsx, source.js.embedded.html</scope>
   <description>immediately-invoked jQuery - js</description>
 </snippet>

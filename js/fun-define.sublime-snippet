@@ -4,6 +4,6 @@ function ${1:methodName}(${2:arguments}) {
   $3
 }]]></content>
   <tabTrigger>fn</tabTrigger>
-  <scope>source.js,source.js.embedded.html</scope>
+  <scope>source.ts, source.tsx, source.es, source.js, source.jsx, source.js.embedded.html</scope>
   <description>define function - js</description>
 </snippet>

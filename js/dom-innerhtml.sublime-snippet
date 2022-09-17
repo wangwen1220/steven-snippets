@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[.innerHTML = '${1:elem}';]]></content>
   <tabTrigger>.ih</tabTrigger>
-  <scope>source.js,source.js.embedded.html</scope>
+  <scope>source.ts, source.tsx, source.es, source.js, source.jsx, source.js.embedded.html</scope>
   <description>innerHTML - js</description>
 </snippet>

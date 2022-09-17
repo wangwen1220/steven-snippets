@@ -7,5 +7,5 @@
 ]]></content>
   <tabTrigger>jqfn</tabTrigger>
   <description>jqfn - js</description>
-  <scope>source.js,source.js.embedded.html</scope>
+  <scope>source.ts, source.tsx, source.es, source.js, source.jsx, source.js.embedded.html</scope>
 </snippet>
